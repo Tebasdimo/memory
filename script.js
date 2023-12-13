@@ -1,6 +1,10 @@
 const words = [
-  { indigenous: 'Word1', translation: 'Translation1' },
-  { indigenous: 'Word2', translation: 'Translation2' },
+  { indigenous: 'E'ç', translation: 'Colibrí' },
+  { indigenous: 'Tupa', translation: 'Araña' },
+  { indigenous: 'Wala', translation: 'Grande' },
+{ indigenous: 'kiwe', translation: 'tierra' },
+{ indigenous: 'Sxita', translation: 'Armadillo' },
+{ indigenous: 'Nxa', translation: 'Yuca' },
   // Add more words and translations here
 ];
 
